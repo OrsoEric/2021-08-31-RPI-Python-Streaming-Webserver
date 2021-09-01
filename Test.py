@@ -1,4 +1,5 @@
 #source https://picamera.readthedocs.io/en/latest/recipes2.html#web-streaming
+#2021-09-01 Latency measured to be 176ms
 
 import io
 import picamera
